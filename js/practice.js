@@ -1,4 +1,4 @@
-// alert("fuck off");
+alert("fuck off");
 
 let myList = [["crisps", 5],["shoes", 10],["dogs", 5]];
 
